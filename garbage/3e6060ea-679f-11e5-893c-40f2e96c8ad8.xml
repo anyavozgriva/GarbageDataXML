@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kitchen waste</folder>
+	<filename>3e6060ea-679f-11e5-893c-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\kitchen waste\3e6060ea-679f-11e5-893c-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>24</ymin>
+			<xmax>411</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

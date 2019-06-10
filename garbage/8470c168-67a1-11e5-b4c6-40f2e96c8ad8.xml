@@ -1,0 +1,50 @@
+<annotation>
+	<folder>india dirty city</folder>
+	<filename>8470c168-67a1-11e5-b4c6-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\india dirty city\8470c168-67a1-11e5-b4c6-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>69</ymin>
+			<xmax>79</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>167</ymin>
+			<xmax>209</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>175</ymin>
+			<xmax>386</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>delhi garbage</folder>
+	<filename>d068698e-6799-11e5-ba3c-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\delhi garbage\d068698e-6799-11e5-ba3c-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>198</ymin>
+			<xmax>478</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>319</ymin>
+			<xmax>596</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

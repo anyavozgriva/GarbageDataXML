@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trash on roads</folder>
+	<filename>80bfceae-679e-11e5-b0d3-40f2e96c8ad8.png</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\trash on roads\80bfceae-679e-11e5-b0d3-40f2e96c8ad8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1046</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1153</xmin>
+			<ymin>745</ymin>
+			<xmax>1570</xmax>
+			<ymax>1016</ymax>
+		</bndbox>
+	</object>
+</annotation>

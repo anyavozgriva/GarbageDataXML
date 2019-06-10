@@ -1,0 +1,26 @@
+<annotation>
+	<folder>environment</folder>
+	<filename>b2bcbb36-943c-11e5-af65-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\environment\b2bcbb36-943c-11e5-af65-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1692</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>35</ymin>
+			<xmax>1561</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

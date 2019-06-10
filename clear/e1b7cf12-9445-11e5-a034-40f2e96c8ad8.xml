@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chaos+cable</folder>
+	<filename>e1b7cf12-9445-11e5-a034-40f2e96c8ad8.jpeg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\chaos+cable\e1b7cf12-9445-11e5-a034-40f2e96c8ad8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>651</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>44</ymin>
+			<xmax>716</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

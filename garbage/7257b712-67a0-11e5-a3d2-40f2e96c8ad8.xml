@@ -1,0 +1,26 @@
+<annotation>
+	<folder>india dirty streets</folder>
+	<filename>7257b712-67a0-11e5-a3d2-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\india dirty streets\7257b712-67a0-11e5-a3d2-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>217</ymin>
+			<xmax>519</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fruits+vegetables</folder>
+	<filename>ba6e1db8-e606-11e5-a917-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\fruits+vegetables\ba6e1db8-e606-11e5-a917-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>5</ymin>
+			<xmax>635</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

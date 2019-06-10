@@ -1,0 +1,26 @@
+<annotation>
+	<folder>food</folder>
+	<filename>14c07d3e-9449-11e5-a299-40f2e96c8ad8.png</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\food\14c07d3e-9449-11e5-a299-40f2e96c8ad8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>722</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>11</ymin>
+			<xmax>699</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

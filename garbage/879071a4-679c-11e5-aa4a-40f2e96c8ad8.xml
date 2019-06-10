@@ -1,0 +1,26 @@
+<annotation>
+	<folder>litter</folder>
+	<filename>879071a4-679c-11e5-aa4a-40f2e96c8ad8.JPG</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\litter\879071a4-679c-11e5-aa4a-40f2e96c8ad8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>360</ymin>
+			<xmax>2056</xmax>
+			<ymax>2123</ymax>
+		</bndbox>
+	</object>
+</annotation>

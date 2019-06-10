@@ -1,0 +1,26 @@
+<annotation>
+	<folder>market waste</folder>
+	<filename>da3c3ad0-6799-11e5-80ca-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\market waste\da3c3ad0-6799-11e5-80ca-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>130</ymin>
+			<xmax>519</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

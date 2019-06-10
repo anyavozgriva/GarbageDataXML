@@ -1,0 +1,38 @@
+<annotation>
+	<folder>roadside garbage</folder>
+	<filename>e3ad6a0e-6798-11e5-8dd0-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\roadside garbage\e3ad6a0e-6798-11e5-8dd0-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>894</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>576</ymin>
+			<xmax>848</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>577</ymin>
+			<xmax>575</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>footpath garbage</folder>
+	<filename>6e79f648-679e-11e5-990f-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\footpath garbage\6e79f648-679e-11e5-990f-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>649</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>247</ymin>
+			<xmax>545</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

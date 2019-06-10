@@ -1,0 +1,26 @@
+<annotation>
+	<folder>earth+dust</folder>
+	<filename>a5ea275c-9443-11e5-bdaa-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\earth+dust\a5ea275c-9443-11e5-bdaa-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>578</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>14</ymin>
+			<xmax>560</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

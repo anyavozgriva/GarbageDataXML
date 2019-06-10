@@ -1,0 +1,26 @@
+<annotation>
+	<folder>medical waste</folder>
+	<filename>9d4793b2-679a-11e5-9696-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\medical waste\9d4793b2-679a-11e5-9696-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>90</ymin>
+			<xmax>296</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

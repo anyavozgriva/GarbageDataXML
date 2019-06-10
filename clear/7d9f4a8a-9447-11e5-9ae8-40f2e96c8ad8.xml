@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buildings</folder>
+	<filename>7d9f4a8a-9447-11e5-9ae8-40f2e96c8ad8.JPG</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\buildings\7d9f4a8a-9447-11e5-9ae8-40f2e96c8ad8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>53</ymin>
+			<xmax>3003</xmax>
+			<ymax>2258</ymax>
+		</bndbox>
+	</object>
+</annotation>

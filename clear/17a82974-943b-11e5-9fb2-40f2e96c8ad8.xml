@@ -1,0 +1,26 @@
+<annotation>
+	<folder>countryside</folder>
+	<filename>17a82974-943b-11e5-9fb2-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\countryside\17a82974-943b-11e5-9fb2-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>193</ymin>
+			<xmax>3869</xmax>
+			<ymax>2521</ymax>
+		</bndbox>
+	</object>
+</annotation>

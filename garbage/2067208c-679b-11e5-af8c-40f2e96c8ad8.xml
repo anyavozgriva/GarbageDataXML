@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rubbish</folder>
+	<filename>2067208c-679b-11e5-af8c-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\rubbish\2067208c-679b-11e5-af8c-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>52</ymin>
+			<xmax>594</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

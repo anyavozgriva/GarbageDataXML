@@ -1,0 +1,26 @@
+<annotation>
+	<folder>park litter</folder>
+	<filename>10bab5d8-679e-11e5-8121-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\park litter\10bab5d8-679e-11e5-8121-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>672</ymin>
+			<xmax>1424</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+</annotation>

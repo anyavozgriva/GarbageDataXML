@@ -1,0 +1,26 @@
+<annotation>
+	<folder>street litter</folder>
+	<filename>9d53e8b2-679d-11e5-90f4-40f2e96c8ad8.JPG</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\street litter\9d53e8b2-679d-11e5-90f4-40f2e96c8ad8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>763</ymin>
+			<xmax>2016</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+	</object>
+</annotation>

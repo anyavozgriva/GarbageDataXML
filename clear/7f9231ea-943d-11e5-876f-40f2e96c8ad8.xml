@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>7f9231ea-943d-11e5-876f-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\face\7f9231ea-943d-11e5-876f-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>42</ymin>
+			<xmax>1748</xmax>
+			<ymax>1420</ymax>
+		</bndbox>
+	</object>
+</annotation>

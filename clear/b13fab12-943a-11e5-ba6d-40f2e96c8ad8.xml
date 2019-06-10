@@ -1,0 +1,26 @@
+<annotation>
+	<folder>city+street</folder>
+	<filename>b13fab12-943a-11e5-ba6d-40f2e96c8ad8.JPG</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\city+street\b13fab12-943a-11e5-ba6d-40f2e96c8ad8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3008</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>40</ymin>
+			<xmax>2958</xmax>
+			<ymax>1967</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clothes</folder>
+	<filename>55e938bc-9446-11e5-8185-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\clothes\55e938bc-9446-11e5-8185-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>4</ymin>
+			<xmax>349</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

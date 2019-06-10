@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chaos</folder>
+	<filename>0c06c04c-9442-11e5-b514-40f2e96c8ad8.gif</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\chaos\0c06c04c-9442-11e5-b514-40f2e96c8ad8.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1724</width>
+		<height>1294</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>13</ymin>
+			<xmax>1684</xmax>
+			<ymax>1221</ymax>
+		</bndbox>
+	</object>
+</annotation>

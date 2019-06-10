@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clean+road</folder>
+	<filename>aa398970-9438-11e5-982d-40f2e96c8ad8.JPG</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\non-garbage-queried-images\clean+road\aa398970-9438-11e5-982d-40f2e96c8ad8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4320</width>
+		<height>3240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>129</ymin>
+			<xmax>4069</xmax>
+			<ymax>3023</ymax>
+		</bndbox>
+	</object>
+</annotation>

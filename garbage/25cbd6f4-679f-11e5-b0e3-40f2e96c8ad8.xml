@@ -1,0 +1,26 @@
+<annotation>
+	<folder>garbage in the forest</folder>
+	<filename>25cbd6f4-679f-11e5-b0e3-40f2e96c8ad8.jpg</filename>
+	<path>C:\garbage\spotgarbage-GINI\spotgarbage\garbage-queried-images\garbage in the forest\25cbd6f4-679f-11e5-b0e3-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>468</ymin>
+			<xmax>909</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
